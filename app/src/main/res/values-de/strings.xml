@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rooster</string>
+    <string name="navigation_drawer_open">Open de navigatielade</string>
+    <string name="navigation_drawer_close">Sluit de navigatielade</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigatiekop</string>
+    <string name="action_settings">Instellingen</string>
+
+    <!-- Fragments strings -->
+    <string name="monday">maandag</string>
+    <string name="tuesday">dinsdag</string>
+    <string name="wednesday">woensdag</string>
+    <string name="thursday">donderdag</string>
+    <string name="friday">vrijdag</string>
+    <string name="saturday">zaterdag</string>
+    <string name="sunday">zondag</string>
+
+    <!-- Main Activity strings -->
+    <string name="select_snackbar">Selecteer een item.</string>
+    <string name="selected">Geselecteerd</string>
+    <string name="timetable">Rooster</string>
+    <string name="ulan_nurymov_gmail_com">ulan.nurymov@gmail.com</string>
+    <string name="seven_days_of_the_week">7 dagen van de week</string>
+    <string name="subject">Onderwerpen</string>
+    <string name="field_error">veld mag niet leeg zijn!</string>
+    <string name="time_error">Tijdveld mag niet leeg zijn!</string>
+    <string name="week">Week</string>
+    <string name="delete">Verwijderen</string>
+    <string name="edit">Bewerk</string>
+    <string name="school_website">Website van de school</string>
+    <string name="school_website_snackbar">Stel de URL van uw schoolwebsite in de instellingen in.</string>
+
+    <string name="add_subject">Voeg een onderwerp toe</string>
+    <string name="edit_subject">Bewerk onderwerp</string>
+    <string name="teacher">Leraar</string>
+    <string name="room">Kamer</string>
+    <string name="time">Tijd</string>
+    <string name="save">Opslaan</string>
+    <string name="cancel">annuleren</string>
+    <string name="time_to_dialog">Naar:</string>
+    <string name="time_from_dialog">Van:</string>
+    <string name="subject_dialog">Onderwerpen:</string>
+    <string name="teacher_dialog">Leraar:</string>
+    <string name="room_dialog">Kamer:</string>
+    <string name="select_time">Selecteer tijd</string>
+    <string name="select_color">Selecteer kleur</string>
+    <string name="choose_time">Kies een tijd</string>
+    <string name="choose_date">Kies een datum</string>
+    <string name="choose_color">Kies een kleur</string>
+
+    <!-- Homeworks Activity strings -->
+    <string name="title_activity_homeworks">HomeworksActivity</string>
+    <string name="homeworks">huiswerk</string>
+    <string name="select_date">Selecteer een datum</string>
+    <string name="deadline_dialog">Deadline:</string>
+    <string name="deadline">Deadline</string>
+    <string name="description_dialog">Omschrijving:</string>
+    <string name="desctiption">Beschrijving</string>
+    <string name="date_error">Datumveld mag niet leeg zijn!</string>
+    <string name="edit_homework">Bewerk huiswerk</string>
+    <string name="add_homework">Voeg huiswerk toe</string>
+    <string name="deadline_snackbar">"Deadline veld mag niet leeg zijn!</string>
+    <string name="date">Datum</string>
+
+    <!-- Notes Activity strings -->
+    <string name="notes">Opmerkingen</string>
+    <string name="title_dialog">Titel:</string>
+    <string name="add_note">Notitie toevoegen</string>
+    <string name="edit_note">Bewerk notitie</string>
+    <string name="title_error">Titelveld mag niet leeg zijn!</string>
+    <string name="title">Titel</string>
+    <string name="saved">Opgeslagen</string>
+
+    <!-- Teachers Activity strings -->
+    <string name="teachers">Leraren</string>
+    <string name="add_teacher">Voeg leraar toe</string>
+    <string name="edit_teacher">Bewerk de leraar</string>
+    <string name="name_dialog">Naam:</string>
+    <string name="post_dialog">Post:</string>
+    <string name="phonenumber_dialog">Telefoon:</string>
+    <string name="email_dialog">E-mail:</string>
+    <string name="name">Naam</string>
+    <string name="phone_number">Telefoonnummer</string>
+    <string name="post">Post</string>
+    <string name="email">E-mail</string>
+
+    <!-- Exams Activity strings -->
+    <string name="exams">Examens</string>
+    <string name="add_exam">Examen toevoegen</string>
+    <string name="date_dialog">Datum:</string>
+    <string name="time_dialog">Tijd:</string>
+
+    <!-- Settings Activity strings -->
+    <string name="sevendays_setting">Schakel 7 dagen van de week in</string>
+    <string name="school_website_setting">Verander de website van de school</string>
+    <string name="school_website_setting_summary">Verander de URL van uw schoolwebsite</string>
+
+    <!-- Notification -->
+    <string name="notification_title">De lessen van vandaag</string>
+    <string name="do_not_have_lessons">Je hebt geen lessen!</string>
+</resources>
