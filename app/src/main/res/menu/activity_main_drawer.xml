@@ -10,6 +10,7 @@
             android:id="@+id/schoolwebsitemenu"
             android:icon="@drawable/baseline_open_in_browser_black_18"
             android:title="@string/school_website" />
+
     </group>
 
     <group android:id="@+id/menu_mid"
@@ -33,6 +34,10 @@
             android:id="@+id/notes"
             android:icon="@drawable/baseline_event_note_black_18"
             android:title="@string/notes" />
+        <item
+            android:id="@+id/links"
+            android:icon="@drawable/ic_menu_link"
+            android:title="Links" />
     </group>
 
     <group android:id="@+id/menu_down"

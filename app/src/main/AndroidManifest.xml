@@ -15,6 +15,10 @@
         android:theme="@style/AppTheme">
 
         <activity
+            android:name=".activities.LinkActivity"
+        />
+
+        <activity
             android:name=".activities.ActivitySplash"
             android:label="Splash Screen"
             android:theme="@style/SplashTheme">

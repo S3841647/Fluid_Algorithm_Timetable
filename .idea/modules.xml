@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fluid_Algorithm_Timetables.iml" filepath="$PROJECT_DIR$/.idea/modules/Fluid_Algorithm_Timetables.iml" group="Fluid_Algorithm_Timetables" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Fluid_Algorithm_Timetables/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fluid_Algorithm_Timetable.iml" filepath="$PROJECT_DIR$/.idea/modules/Fluid_Algorithm_Timetable.iml" group="Fluid_Algorithm_Timetable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Fluid_Algorithm_Timetable/app" />
     </modules>
   </component>
 </project>
